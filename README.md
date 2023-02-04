@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TomMcC95
-- ✨ I work as a Precision Farming Manager at a large UK based horticultural business.
-- 👀 I’m interested in business analytics, machine learning and data collection procedures.
-- 🌱 I’m currently studying a PGCert in Data Science at UEA.
+- ✨ I work as a Data Scientist for one of the UK's largest health and social clubs.
+- 👀 I’m interested in business analytics, machine learning and data engineering.
+- 🌱 I completed my PGCert in Data Science at UEA during my time as an Analyst within the Agri Food industry.
 - 💞️ I’m looking to collaborate on projects that will influence business practices and decision making.
 - 📫 How to reach me: t.mcclelland@hotmail.co.uk
 
